@@ -1,0 +1,95 @@
+Tianyi Cui
+==========
+
+Web:: http://tianyicui.com
+
+Email:: tianyicui@gmail.com
+
+Phone:: +8613958103659 (It's a prime number!)
+
+Address::
+
+Room 918, Dorm 30, Yuquan Campus +
+Zhejiang University, Hangzhou +
+China, 310027
+
+Objective
+---------
+
+* Build tools that make programmers' life more fulfilling, including mine.
+
+Skills
+------
+
+.Algorithm design, analysis and implementation
+
+* I am quite proficient in ACM/ICPC-level algorithmic problem-solving.
+* I am experienced with implementing algorithms based on textbooks and research papers.
+
+.Programming skills
+
+* Writing clean code in `Ruby`, `Python`, `Haskell`, `C`, `C++` and `C#` with practical experiences.
+* Web development with `Rails` and `Django`.
+* DSL (domain specific language) design and implementation in `Ruby`.
+* Software testing with `RSpec` and `NUnit`.
+* Functional data structure implementation in `Haskell`.
+* Embedded `Linux` development in `C`, especially device driver implementation and system integration.
+* Lexical analysis and parsing with `flex`, `bison` and `treetop`.
+
+.Programming tools
+
+* Source code management: `Git`, `Mercurial`, `Subversion`.
+* Editor/IDE: `Vim`, `Visual Studio`.
+* Operating systems: `Windows`, `Mac OS X` and `Linux` (especially `Debian`, `Ubuntu` and `ArchLinux`).
+* I also have rich experience with common `UNIX` command line utilities.
+
+.General skills
+
+* Excellent quick learning and problem-solving ability under time constraints.
+* Critical thinking and effective communication.
+
+Academic Achievements
+---------------------
+
+.ACM International Collegiate Programming Contest
+
+* Harbin Regional, Gold Medal, 2008
+* Hangzhou Regional, Gold Medal, 2008
+* Hefei Regional (team leader), Gold Medal, 2009
+* Wuhan Regional (team leader), Gold Medal, 2009
+
+.Zhejiang Provincial Collegiate Programming Contest
+
+* 1st place, 2009
+* 1st place, 2010
+
+Commercial Project Experience
+-----------------------------
+
+* In June 2009, I developed a `.Net` RPC framework using `Protocol Buffer` and implemented the multithreaded socket server in `C#`, for a client of _TopCoder, Inc._ codenamed _SP-14_.
+* In July 2009, I developed the prototype of a Facebook application using `Ruby on Rails` and `Apache Thrift` for _RomanLogic LLC_.
+* In August 2009, I ported the `Linux` kernel along with `uClibc` and `BusyBox` userland to a customized embedded board based on `AT91RM9200` chip for _Sinostride Technology_. I also wrote the essential device drivers as loadable kernel modules. The system is now widely deployed as the monitoring system in _China Unicom_'s 3G base stations.
+* In June 2010, I built a customized version of `WebKit` for _Hercules_ (part of _Guillemot Corporation_) with the main purpose of reducing memory footprint to be used in an embedded environment.
+
+Open Source Experience
+----------------------
+
+* In 2010, I made significant contribution to the `Homebrew` project, a package manager and porting system for `Mac OS X` entirely written in `Ruby`. More than a dozen software packages are ported to `Mac OS X` and carefully packaged by me.
+* I submitted patches to various open source projects; most of them got accepted. The notable projects are `RVM`, `RSpec`, `SimpleCov`, `highlighting-kate`, and `Redcar`. More details on https://github.com/tianyicui.
+
+Education
+---------
+
+* I am currently a 3rd-grade undergraduate in Computer Science Department at Zhejiang University.
+
+Hobbies
+-------
+
+* Enjoying classical music.
+* Reading books on psychology and philosophy.
+
+Notes
+-----
+
+* This resume was created using `Vim` and `AsciiDoc`, then spell checked with `Aspell`. The process of generating HTML and uploading it to my server is automated by using `Make`, `Git` and `OpenSSH`.
+* The latest version of my resume is always available online in http://tianyicui.com/resume.txt[plain text] and http://tianyicui.com/resume.html[HTML].

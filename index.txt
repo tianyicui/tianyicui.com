@@ -1,0 +1,40 @@
+Tianyi Cui
+==========
+
+I am currently a 3rd-year undergraduate in Computer Science Department at Zhejiang University.
+
+My dream is to reach mastery in computer programming, and build tools that make programmers' life more fulfilling, including mine.
+
+My Resume
+---------
+
+* Plain text: http://tianyicui.com/resume.txt
+* HTML: http://tianyicui.com/resume.html
+
+My Other Websites
+-----------------
+
+* Blog (Chinese): http://cuitianyi.com
+* Blog (English): http://programmingbuddha.com (currently not too much to see there)
+* My side project: http://wiki.sh (under construction)
+
+The Social Me
+-------------
+
+* Twitter: https://twitter.com/tianyi
+* GitHub: https://github.com/tianyicui
+* Hacker News: http://news.ycombinator.com/user?id=tianyicui
+* Google Reader: https://www.google.com/reader/shared/tianyicui
+* Reddit: http://www.reddit.com/user/tianyicui
+* Quora: https://www.quora.com/Tianyi-Cui
+* Facebook: https://www.facebook.com/tianyi.cui
+* Renren: http://renren.com/cuitianyi
+
+Facts About Me That May Surprise You
+------------------------------------
+
+* My phone number is a prime number.
+* I'm only 145 cm (4' 9") tall.
+* I am a nerdy geek _and_ I have a beautiful girlfriend.
+* But if you know I can also write poems and compose songs, the previous one may be not that surprising.
+* To be continued...
