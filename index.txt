@@ -30,15 +30,6 @@ The Social Me
 * Facebook: https://www.facebook.com/tianyi.cui
 * Renren: http://renren.com/cuitianyi
 
-Facts About Me That May Surprise You
-------------------------------------
-
-* My phone number is a prime number.
-* I'm only 145 cm (4' 9") tall.
-* I am a nerdy geek _and_ I have a beautiful girlfriend.
-* But if you know I can also write poems and compose songs, the previous one may be not that surprising.
-* To be continued...
-
 Contemporary People I Admire
 ----------------------------
 
@@ -82,4 +73,13 @@ Only people whose lifetime overlap mine are included in this list, with only one
 * http://blog.sina.com.cn/zhangyinheblog[Yinhe Zhang]
 * http://www.rubyist.net/~matz/[Yukihiro Matsumoto]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Why_the_lucky_stiff[why the lucky stiff]
+* To be continued...
+
+Facts About Me That May Surprise You
+------------------------------------
+
+* My phone number is a prime number.
+* I'm only 145 cm (4' 9") tall.
+* I am a nerdy geek _and_ I have a beautiful girlfriend.
+* But if you know I can also write poems and compose songs, the previous one may be not that surprising.
 * To be continued...
