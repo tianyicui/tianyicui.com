@@ -67,6 +67,7 @@ Only people whose lifetime overlap mine are included in this list, with only one
 * https://secure.wikimedia.org/wikipedia/en/wiki/Sergey_Brin[Sergey Brin]
 * http://www.apple.com/pr/bios/jobs.html[Steve Jobs]
 * http://www.dalailama.com/[Tenzin Gyatso]
+* http://www.topcoder.com/tc?module=MemberProfile&cr=19849563&tab=alg[Tiancheng Lou]
 * http://tom.preston-werner.com/[Tom Preston-Werner]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Trey_Parker[Trey Parker]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Wang_Xiaobo[Wang Xiaobo]
