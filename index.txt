@@ -1,7 +1,7 @@
 Tianyi Cui
 ==========
 
-I am currently a 3rd-year undergraduate in Computer Science Department at Zhejiang University.
+I am currently a 3rd-year undergraduate in College of Computer Science and Technology at Zhejiang University.
 
 My dream is to reach mastery in computer programming, and build tools that make programmers' life more fulfilling, including mine.
 
