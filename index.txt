@@ -30,6 +30,8 @@ The Social Me
 * Facebook: https://www.facebook.com/tianyi.cui
 * Renren: http://renren.com/cuitianyi
 
+anchor:CPIA[]
+
 Contemporary People I Admire
 ----------------------------
 
@@ -72,6 +74,7 @@ Only people whose lifetime overlap mine are included in this list, with only one
 * http://tom.preston-werner.com/[Tom Preston-Werner]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Trey_Parker[Trey Parker]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Wang_Xiaobo[Wang Xiaobo]
+* http://yegle.net/[Yegle Ying]
 * http://blog.sina.com.cn/zhangyinheblog[Yinhe Zhang]
 * http://www.rubyist.net/~matz/[Yukihiro Matsumoto]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Why_the_lucky_stiff[why the lucky stiff]
