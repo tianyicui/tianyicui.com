@@ -1,7 +1,7 @@
 Tianyi Cui
 ==========
 
-I am currently a 3rd-year undergraduate in College of Computer Science and Technology at Zhejiang University.
+I am currently an intern at Innovation Engineering Group a 3rd-year undergraduate in College of Computer Science and Technology at Zhejiang University.
 
 My dream is to reach mastery in computer programming, and build tools that make programmers' life more fulfilling, including mine.
 
@@ -68,6 +68,7 @@ Only people whose lifetime overlap mine are included in this list, with only one
 * https://secure.wikimedia.org/wikipedia/en/wiki/Matt_Stone[Matt Stone]
 * http://paulgraham.com/[Paul Graham]
 * http://www.stallman.org/[Richard Stallman]
+* http://scottchacon.com/[Scott Chacon]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Sergey_Brin[Sergey Brin]
 * http://research.microsoft.com/en-us/people/simonpj/[Simon Peyton-Jones]
 * http://www.apple.com/pr/bios/jobs.html[Steve Jobs]
