@@ -1,7 +1,9 @@
 ASCIIDOC=asciidoc
+SED=sed
 
 %.html: %.txt
 	$(ASCIIDOC) $<
+	$(SED) -i '' -e 's@</body>@<script type="text/javascript">try{var pageTracker = _gat._getTracker("UA-8949203-5");pageTracker._trackPageview();} catch(err) {}</script></body>@' $@
 
 ALL: index.html resume.html
 
