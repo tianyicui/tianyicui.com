@@ -65,6 +65,7 @@ Only people whose lifetime overlap mine are included in this list, with only one
 * http://paulgraham.com/[Paul Graham]
 * http://www.stallman.org/[Richard Stallman]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Sergey_Brin[Sergey Brin]
+* http://research.microsoft.com/en-us/people/simonpj/[Simon Peyton-Jones]
 * http://www.apple.com/pr/bios/jobs.html[Steve Jobs]
 * http://www.dalailama.com/[Tenzin Gyatso]
 * http://www.topcoder.com/tc?module=MemberProfile&cr=19849563&tab=alg[Tiancheng Lou]
