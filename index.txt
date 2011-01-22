@@ -41,6 +41,7 @@ Only people whose lifetime overlap mine are included in this list, with only one
 * https://secure.wikimedia.org/wikipedia/en/wiki/Bertrand_Russell[Bertrand Russell]
 * http://www.thegatesnotes.com/[Bill Gates]
 * http://hi.baidu.com/chenyue_ll[Chen Yue]
+* http://lifetoy.org[Cheng Li]
 * http://www.pluskid.org/[Chiyuan Zhang]
 * http://www.nondot.org/sabre/[Chris Lattner]
 * http://cm.bell-labs.com/cm/cs/who/dmr/[Dennis Ritchie]
