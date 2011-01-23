@@ -1,9 +1,17 @@
 Tianyi Cui
 ==========
 
-I am currently an intern at Innovation Engineering Group of Microsoft Research China and a 3rd-year undergraduate in College of Computer Science and Technology at Zhejiang University.
+image::tianyicui.jpg[My photo]
 
-My dream is to reach mastery in computer programming, and build tools that make programmers' life more fulfilling, including mine.
+I am ...
+
+* an intern at Innovation Engineering Group of Microsoft Research China,
+* a 3rd-year undergraduate in College of Computer Science and Technology at Zhejiang University.
+
+My dreams are ...
+
+* reach mastery in computer programming,
+* build tools that make programmers' life more fulfilling, including mine.
 
 My Resume
 ---------
