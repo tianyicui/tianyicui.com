@@ -3,7 +3,7 @@ SED=sed
 
 %.html: %.txt
 	$(ASCIIDOC) $<
-	$(SED) -i '' -e 's@</body>@<script type="text/javascript">try{var pageTracker = _gat._getTracker("UA-8949203-5");pageTracker._trackPageview();} catch(err) {}</script></body>@' $@
+	$(SED) -i '' -f GoogleAnalytics.sed $@
 
 ALL: index.html resume.html
 
