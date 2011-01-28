@@ -26,18 +26,29 @@ My Other Websites
 * Blog (English): http://programmingbuddha.com
 * My side project: http://wiki.sh (under construction)
 
-The Social Me
--------------
+Me On Other Places
+------------------
 
-* Twitter: https://twitter.com/tianyi
+Programming Related
+~~~~~~~~~~~~~~~~~~~
 * GitHub: https://github.com/tianyicui
-* Hacker News: http://news.ycombinator.com/user?id=tianyicui
-* LinkedIn: http://www.linkedin.com/in/tianyicui
-* Google Reader: https://www.google.com/reader/shared/tianyicui
 * Stack Overflow: http://stackoverflow.com/users/424592/tianyi-cui
 * Theoretical CS: http://cstheory.stackexchange.com/users/2522/tianyi-cui
+
+Me Sharing Thoughts
+~~~~~~~~~~~~~~~~~~~
+* Twitter: https://twitter.com/tianyi
+* Google Reader: https://www.google.com/reader/shared/tianyicui
+
+Discussion Areas
+~~~~~~~~~~~~~~~~
+* Hacker News: http://news.ycombinator.com/user?id=tianyicui
 * Quora: https://www.quora.com/Tianyi-Cui
 * Reddit: http://www.reddit.com/user/tianyicui
+
+Social Networks
+~~~~~~~~~~~~~~~
+* LinkedIn: http://www.linkedin.com/in/tianyicui
 * Facebook: https://www.facebook.com/tianyi.cui
 * Renren: http://renren.com/cuitianyi
 
