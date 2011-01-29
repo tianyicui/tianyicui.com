@@ -5,7 +5,7 @@ image::tianyicui.jpg[My photo]
 
 I am ...
 
-* an intern at Innovation Engineering Group of Microsoft Research China,
+* an intern at Innovation Engineering Group of Microsoft Research Asia,
 * a 3rd-year undergraduate in College of Computer Science and Technology at Zhejiang University.
 
 My dreams are ...
