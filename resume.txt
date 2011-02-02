@@ -41,7 +41,7 @@ Skills
 * Source code management: `Git`, `Mercurial`, `Subversion`.
 * Editor/IDE: `Vim`, `Visual Studio`.
 * Operating systems: `Windows`, `Mac OS X` and `Linux` (especially `Debian`, `Ubuntu` and `ArchLinux`).
-* I also have rich experience with common `UNIX` command line utilities.
+* I also have rich experience with common `Unix` command line utilities.
 
 .General skills
 
