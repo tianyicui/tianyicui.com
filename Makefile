@@ -5,7 +5,7 @@ SED=sed
 	$(ASCIIDOC) $<
 	$(SED) -i '' -f GoogleAnalytics.sed $@
 
-ALL: index.html resume.html
+ALL: index.html resume.html cpia.html
 
 upload:
 	git push -f git@github.com:tianyicui/tianyicui.com.git master

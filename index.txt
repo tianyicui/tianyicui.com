@@ -52,58 +52,6 @@ Social Networks
 * Facebook: https://www.facebook.com/tianyi.cui
 * Renren: http://renren.com/cuitianyi
 
-anchor:CPIA[]
-
-Contemporary People I Admire
-----------------------------
-
-Only people whose lifetime overlap mine are included in this list, with only one exception.
-
-* http://www.toolshed.com/[Andy Hunt]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Bertrand_Russell[Bertrand Russell]
-* http://www.thegatesnotes.com/[Bill Gates]
-* http://hi.baidu.com/chenyue_ll[Chen Yue]
-* http://lifetoy.org[Cheng Li]
-* http://www.pluskid.org/[Chiyuan Zhang]
-* http://www.nondot.org/sabre/[Chris Lattner]
-* http://cm.bell-labs.com/cm/cs/who/dmr/[Dennis Ritchie]
-* https://donsbot.wordpress.com/[Don Steward]
-* http://www-cs-faculty.stanford.edu/~knuth/[Donald Knuth]
-* http://www.youxu.info/[Eric You Xu]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Friedrich_Hayek[Friedrich Hayek]
-* http://matrix67.com/[Gu Sen]
-* http://www.python.org/~guido/[Guido van Rossum]
-* http://www.linkedin.com/in/huony[Huony Fang]
-* https://github.com/jashkenas[Jeremy Ashkenas]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Julian_Assange[Julian Assange]
-* http://www.kaieconblog.net/[Kai Guo]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Kai-Fu_Lee[Kai-Fu Lee]
-* http://www.cs.bell-labs.com/who/ken/[Ken Thompson]
-* http://mindhacks.cn/[LIU Weipeng]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Larry_Page[Larry Page]
-* http://lixiaolai.com/[Li Xiaolai]
-* http://torvalds-family.blogspot.com/[Linus Torvalds]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Liu_Xiaobo[Liu Xiaobo]
-* https://www.facebook.com/markzuckerberg[Mark Zuckerberg]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Martin_Seligman[Martin Seligman]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Matt_Stone[Matt Stone]
-* http://paulgraham.com/[Paul Graham]
-* http://www.stallman.org/[Richard Stallman]
-* http://scottchacon.com/[Scott Chacon]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Sergey_Brin[Sergey Brin]
-* http://research.microsoft.com/en-us/people/simonpj/[Simon Peyton-Jones]
-* http://www.apple.com/pr/bios/jobs.html[Steve Jobs]
-* http://www.dalailama.com/[Tenzin Gyatso]
-* http://www.topcoder.com/tc?module=MemberProfile&cr=19849563&tab=alg[Tiancheng Lou]
-* http://tom.preston-werner.com/[Tom Preston-Werner]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Trey_Parker[Trey Parker]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Wang_Xiaobo[Wang Xiaobo]
-* http://yegle.net/[Yegle Ying]
-* http://blog.sina.com.cn/zhangyinheblog[Yinhe Zhang]
-* http://www.rubyist.net/~matz/[Yukihiro Matsumoto]
-* https://secure.wikimedia.org/wikipedia/en/wiki/Why_the_lucky_stiff[why the lucky stiff]
-* To be continued...
-
 Facts About Me That May Surprise You
 ------------------------------------
 
@@ -112,3 +60,8 @@ Facts About Me That May Surprise You
 * I am a nerdy geek _and_ I have a beautiful girlfriend.
 * But if you know I can also write poems and compose songs, the previous one may be not that surprising.
 * To be continued...
+
+Other Intersting Pages
+----------------------
+
+* link:cpia.html[Contemporary People I Admire]
