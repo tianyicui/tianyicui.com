@@ -1,0 +1,15 @@
+Book Reading
+============
+
+This page tracks my book reading progress since 2011. Unless otherwise specified, all book readings are in English.
+
+== Reading
+
+* Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
+* Principles of Economics by Mankiw (_Feb 15_ - _?_)
+* Expert F# 2.0 (_Feb 20_ - _?_)
+
+== Done
+
+* Predictably Irrational (_Jan 27_ - _Feb 08_)
+* Effective C# (_Feb 1_ - _Feb 11_)
