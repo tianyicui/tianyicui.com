@@ -34,6 +34,7 @@ Contemporary People I Admire
 * http://scottchacon.com/[Scott Chacon]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Sergey_Brin[Sergey Brin]
 * http://research.microsoft.com/en-us/people/simonpj/[Simon Peyton-Jones]
+* http://www.stevepavlina.com/[Steve Pavlina]
 * http://www.apple.com/pr/bios/jobs.html[Steve Jobs]
 * http://www.dalailama.com/[Tenzin Gyatso]
 * http://www.topcoder.com/tc?module=MemberProfile&cr=19849563&tab=alg[Tiancheng Lou]
