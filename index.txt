@@ -13,7 +13,7 @@ My dreams are ...
 * reach mastery in computer programming,
 * build tools that make programmers' life more fulfilling, including mine.
 
-My Resume
+My Résumé
 ---------
 
 * Plain text: http://tianyicui.com/resume.txt
