@@ -13,3 +13,30 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 
 * Predictably Irrational (_Jan 27_ - _Feb 08_)
 * Effective C# (_Feb 1_ - _Feb 11_)
+
+== Next to Read
+
+Theses are books I hope I can start reading in three months.
+
+.Added on _Feb 24_:
+* Computer Organization and Design: The Hardware/Software Interface
+* Computer Architecture: A Quantitative Approach
+* The Elements of Computing Systems: Building a Modern Computer from First Principles
+
+== In Near Future
+
+These are books I hope I can start reading in six months.
+
+.Added on _Feb 24_:
+* Concepts, Techniques, and Models of Computer Programming
+* Matrix Computation
+* Purely Functional Data Structures
+* Types and Programming Languages
+
+== In Future
+
+.Added on _Feb 24_:
+* Categories and Computer Science
+* Concrete Mathematics: A Foundation for Computer Science
+* Elements of Theory of Computation
+* The Haskell Road to Logic, Maths and Programming
