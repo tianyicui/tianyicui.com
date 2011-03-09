@@ -7,13 +7,14 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
 * Principles of Economics by Mankiw (_Feb 15_ - _?_)
-* Programming Massively Parallel Processors (_Mar 2 - _?_)
+* OpenGL Programming Guide (_Mar 8_ - _?_)
 
 == Done
 
 * Predictably Irrational (_Jan 27_ - _Feb 08_)
 * Effective C# (_Feb 1_ - _Feb 11_)
 * Expert F# 2.0 (_Feb 20_ - _Mar 1_)
+* Programming Massively Parallel Processors (_Mar 2_ - _Mar 8_)
 
 == Next to Read
 
