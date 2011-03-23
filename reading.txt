@@ -8,7 +8,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
 * Principles of Economics by Mankiw (_Feb 15_ - _?_)
 * OpenGL Programming Guide (_Mar 8_ - _?_)
-* Pattern Classification (_Mar 13_ - _?_)
+* The Joy of Clojour (_Mar 23_ - _?_)
 
 == Done
 
@@ -16,6 +16,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Effective C# (_Feb 1_ - _Feb 11_)
 * Expert F# 2.0 (_Feb 20_ - _Mar 1_)
 * Programming Massively Parallel Processors (_Mar 2_ - _Mar 8_)
+* Don't Make Me Think [Chinese Version] (_Mar 21_)
 
 == Next to Read
 
