@@ -7,7 +7,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
 * OpenGL Programming Guide (_Mar 8_ - _?_)
-* Write Yourself a Scheme in 48 Hours (_Mar 26_ - _?_)
+* The Road to Serfdom [Chinese] (_Mar 27_ - _?_)
 
 == Done
 
@@ -15,8 +15,9 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Effective C# (_Feb 1_ - _Feb 11_)
 * Expert F# 2.0 (_Feb 20_ - _Mar 1_)
 * Programming Massively Parallel Processors (_Mar 2_ - _Mar 8_)
-* Don't Make Me Think [Chinese Version] (_Mar 21_)
+* Don't Make Me Think [Chinese] (_Mar 21_)
 * The Joy of Clojour + The concurrency chapter of Programming Clojure (_Mar 23_ - _Mar 25_)
+* Write Yourself a Scheme in 48 Hours (_Mar 26_ - _Mar 27_)
 
 == Paused
 
