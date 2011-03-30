@@ -7,7 +7,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
 * OpenGL Programming Guide (_Mar 8_ - _?_)
-* The Road to Serfdom [Chinese] (_Mar 27_ - _?_)
+* The Tipping Point [Audiobook] (_Mar 30_ - _?_)
 
 == Done
 
@@ -18,6 +18,8 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Don't Make Me Think [Chinese] (_Mar 21_)
 * The Joy of Clojour + The concurrency chapter of Programming Clojure (_Mar 23_ - _Mar 25_)
 * Write Yourself a Scheme in 48 Hours (_Mar 26_ - _Mar 27_)
+* The Road to Serfdom [Chinese] (_Mar 27_ - _Mar 30_)
+* Learned Optimism [Abridged Audiobook] (_Mar 30_)
 
 == Paused
 
