@@ -8,6 +8,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
 * OpenGL Programming Guide (_Mar 8_ - _?_)
 * Programming Pearls (_Apr 2_ - _?_)
+* Basic Economics: a Citizen's Guide to the Economy [Audiobook] (_Apr 2_ - _?_)
 
 == Done
 
@@ -22,10 +23,6 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Learned Optimism [Abridged Audiobook] (_Mar 30_)
 * The Tipping Point [Audiobook] (_Mar 30_ - _Mar 31_)
 * Yes!: 50 Scientifically Proven Ways to Be Persuasive [Audiobook] (_Mar 31_ - _Apr 2_)
-
-== Paused
-
-* Principles of Economics by Mankiw (_Feb 15_ - _?_)
 
 == Next to Read
 
