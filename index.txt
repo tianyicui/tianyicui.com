@@ -66,3 +66,4 @@ Other Intersting Pages
 
 * link:cpia.html[Contemporary People I Admire]
 * link:reading.html[My Book Reading in 2011]
+* link:exercise.html[My Daily Exercise Log in 2011]
