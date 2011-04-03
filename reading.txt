@@ -7,7 +7,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
 * OpenGL Programming Guide (_Mar 8_ - _?_)
-* The Tipping Point [Audiobook] (_Mar 30_ - _?_)
+* Programming Pearls (_Apr 2_ - _?_)
 
 == Done
 
@@ -20,6 +20,8 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Write Yourself a Scheme in 48 Hours (_Mar 26_ - _Mar 27_)
 * The Road to Serfdom [Chinese] (_Mar 27_ - _Mar 30_)
 * Learned Optimism [Abridged Audiobook] (_Mar 30_)
+* The Tipping Point [Audiobook] (_Mar 30_ - _Mar 31_)
+* Yes!: 50 Scientifically Proven Ways to Be Persuasive [Audiobook] (_Mar 31_ - _Apr 2_)
 
 == Paused
 
