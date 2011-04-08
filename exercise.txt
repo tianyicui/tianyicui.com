@@ -17,3 +17,8 @@ April 2011
 * 1: situps:40
 * 2:
 * 3: situps:20
+* 4: situps:20
+* 5:
+* 6: situps:30
+* 7: situps:20
+* 8: situps:20
