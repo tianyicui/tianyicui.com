@@ -8,6 +8,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
 * OpenGL Programming Guide (_Mar 8_ - _?_)
 * Basic Economics: a Citizen's Guide to the Economy [Audiobook] (_Apr 2_ - _?_)
+* Types and Programming Languages (_Apr 9_ - _?_)
 
 == Done
 
