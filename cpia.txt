@@ -11,6 +11,7 @@ Contemporary People I Admire
 * http://cm.bell-labs.com/cm/cs/who/dmr/[Dennis Ritchie]
 * https://donsbot.wordpress.com/[Don Steward]
 * http://www-cs-faculty.stanford.edu/~knuth/[Donald Knuth]
+* http://yudkowsky.net/[Eliezer Yudkowsky]
 * http://www.youxu.info/[Eric You Xu]
 * https://secure.wikimedia.org/wikipedia/en/wiki/Friedrich_Hayek[Friedrich Hayek]
 * http://matrix67.com/[Gu Sen]
