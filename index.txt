@@ -3,15 +3,15 @@ Tianyi Cui (崔添翼)
 
 image::tianyicui.jpg[My photo]
 
-I am ...
+I am:
 
-* an intern at Innovation Engineering Group of Microsoft Research Asia,
 * a 3rd-year undergraduate in College of Computer Science and Technology at Zhejiang University.
+* an intern at Microsoft Research Asia (first at Innovation Engineering Group and then Internet Graphics Group).
 
-My dreams are ...
+My dreams:
 
-* reach mastery in computer programming,
-* build tools that make programmers' life more fulfilling, including mine.
+* overcome cognitive biases and practice the art of human rataionality.
+* reach mastery in computer programming and build tools to make programmers' life more fulfilling.
 
 My Résumé
 ---------
@@ -29,37 +29,28 @@ My Other Websites
 Me At Other Places
 ------------------
 
-Programming Related
-~~~~~~~~~~~~~~~~~~~
-* GitHub: https://github.com/tianyicui
-* Stack Overflow: http://stackoverflow.com/users/424592/tianyi-cui
-* Theoretical CS: http://cstheory.stackexchange.com/users/2522/tianyi-cui
-
-Me Sharing Thoughts
-~~~~~~~~~~~~~~~~~~~
-* Twitter: https://twitter.com/tianyi
-* Google Reader: https://www.google.com/reader/shared/tianyicui
-
-Discussion Areas
-~~~~~~~~~~~~~~~~
-* Hacker News: http://news.ycombinator.com/user?id=tianyicui
-* Quora: https://www.quora.com/Tianyi-Cui
-* Reddit: http://www.reddit.com/user/tianyicui
-
 Social Networks
 ~~~~~~~~~~~~~~~
 * LinkedIn: http://www.linkedin.com/in/tianyicui
 * Facebook: https://www.facebook.com/tianyi.cui
 * Renren: http://renren.com/cuitianyi
 
-Facts About Me That May Surprise You
-------------------------------------
+My Sharing Streams
+~~~~~~~~~~~~~~~~~~
+* Twitter: https://twitter.com/tianyi
+* Google Reader: https://www.google.com/reader/shared/tianyicui
 
-* My phone number is a prime number.
-* I'm only 145 cm (4' 9") tall.
-* I am a nerdy geek _and_ I have a beautiful girlfriend.
-* But if you know I can also write poems and compose songs, the previous one may be not that surprising.
-* To be continued...
+Programming Related
+~~~~~~~~~~~~~~~~~~~
+* GitHub: https://github.com/tianyicui
+* Stack Overflow: http://stackoverflow.com/users/424592/tianyi-cui
+* TopCoder: http://www.topcoder.com/tc?module=MemberProfile&cr=22758693
+
+Discussion Areas
+~~~~~~~~~~~~~~~~
+* Hacker News: http://news.ycombinator.com/user?id=tianyicui
+* Quora: https://www.quora.com/Tianyi-Cui
+* Reddit: http://www.reddit.com/user/tianyicui
 
 Other Intersting Pages
 ----------------------
