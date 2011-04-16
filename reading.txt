@@ -7,7 +7,6 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
 * OpenGL Programming Guide (_Mar 8_ - _?_)
-* Basic Economics: a Citizen's Guide to the Economy [Audiobook] (_Apr 2_ - _?_)
 * Types and Programming Languages (_Apr 9_ - _?_)
 * How To Actually Change Your Mind [LessWrong sequence] (_Apr 16_ - _?_)
 
@@ -28,6 +27,8 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * The Google Résumé (_Apr 4_ - _Apr 7_)
 * Cracking the Coding Interview (_Apr 7_ - _Apr 8_)
 * Harry Potter and the Method of Rationality [first 71 chapters] (_Apr 10_ - _Apr 15_)
+* Basic Economics: a Citizen's Guide to the Economy [Audiobook] (_Apr 2_ - _Apr 17_)
+* Politics is the Mind-Killer [LessWrong sequence] (_Apr 16_ - _Apr 17_)
 
 == Next to Read
 
