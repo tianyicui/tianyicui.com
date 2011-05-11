@@ -3,7 +3,7 @@ SED=sed
 
 %.html: %.txt
 	$(ASCIIDOC) $<
-	$(SED) -i '' -f GoogleAnalytics.sed $@
+	$(SED) -i -f GoogleAnalytics.sed $@
 
 ALL: index.html resume.html cpia.html reading.html exercise.html
 

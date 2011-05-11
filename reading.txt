@@ -9,6 +9,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * OpenGL Programming Guide (_Mar 8_ - _?_)
 * Types and Programming Languages (_Apr 9_ - _?_)
 * How To Actually Change Your Mind [LessWrong sequence] (_Apr 16_ - _?_)
+* Computer Networks (_May 10_ - _?_)
 
 == Done
 
@@ -29,6 +30,8 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Harry Potter and the Method of Rationality [first 71 chapters] (_Apr 10_ - _Apr 15_)
 * Basic Economics: a Citizen's Guide to the Economy [Audiobook] (_Apr 2_ - _Apr 17_)
 * Politics is the Mind-Killer [LessWrong sequence] (_Apr 16_ - _Apr 17_)
+* Computer Organization and Design: The Hardware/Software Interface, ARM edition (_Apr 29_ - _May 11_)
+* The Bridges of Madison County [Chinese Version] (_May 4_)
 
 == Next to Read
 
