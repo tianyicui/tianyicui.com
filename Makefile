@@ -1,5 +1,5 @@
 ASCIIDOC=asciidoc
-SED=sed
+SED=gsed
 
 %.html: %.txt
 	$(ASCIIDOC) $<
