@@ -5,8 +5,11 @@ image::tianyicui.jpg[My photo]
 
 I am:
 
-* a 3rd-year undergraduate in College of Computer Science and Technology at Zhejiang University.
-* an intern at Microsoft Research Asia (first at Innovation Engineering Group and then Internet Graphics Group).
+* a 4th-year undergraduate in College of Computer Science and Technology at Zhejiang University.
+
+I was:
+
+* a full-time intern at Microsoft Research Asia (first at Innovation Engineering Group and then Internet Graphics Group).
 
 My dreams:
 
