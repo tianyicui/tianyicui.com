@@ -6,10 +6,16 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 == Reading
 
 * Compilers: Principles, Techniques, and Tools (_Jan 27_ - _?_)
+* The Elements of Computing Systems: Building a Modern Computer from First Principles (_Jul 23_ - _?_)
+
+== Dropped
+
 * OpenGL Programming Guide (_Mar 8_ - _?_)
+
+== Stalled
+
 * Types and Programming Languages (_Apr 9_ - _?_)
 * How To Actually Change Your Mind [LessWrong sequence] (_Apr 16_ - _?_)
-* Computer Networks (_May 10_ - _?_)
 
 == Done
 
@@ -32,6 +38,7 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Politics is the Mind-Killer [LessWrong sequence] (_Apr 16_ - _Apr 17_)
 * Computer Organization and Design: The Hardware/Software Interface, ARM edition (_Apr 29_ - _May 11_)
 * The Bridges of Madison County [Chinese Version] (_May 4_)
+* Computer Networks (_May 10_ - _?_)
 
 == Next to Read
 
@@ -40,7 +47,6 @@ Theses are books I hope I can start reading in three months.
 .Added on _Feb 24_:
 * Computer Organization and Design: The Hardware/Software Interface
 * Computer Architecture: A Quantitative Approach
-* The Elements of Computing Systems: Building a Modern Computer from First Principles
 
 == In Near Future
 
@@ -50,7 +56,6 @@ These are books I hope I can start reading in six months.
 * Concepts, Techniques, and Models of Computer Programming
 * Matrix Computation
 * Purely Functional Data Structures
-* Types and Programming Languages
 
 == In Future
 
@@ -59,3 +64,4 @@ These are books I hope I can start reading in six months.
 * Concrete Mathematics: A Foundation for Computer Science
 * Elements of Theory of Computation
 * The Haskell Road to Logic, Maths and Programming
+* Elements of Programming

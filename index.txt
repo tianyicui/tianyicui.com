@@ -13,7 +13,7 @@ I was:
 
 My dreams:
 
-* overcome cognitive biases and practice the art of human rataionality.
+* overcome cognitive biases and practice the art of human rationality.
 * reach mastery in computer programming and build tools to make programmers' life more fulfilling.
 
 My Résumé
@@ -62,7 +62,7 @@ Other Places
 * MyAnimeList: http://tianyi.myanimelist.net
 * Bangumi: http://bangumi.tv/user/30341
 
-Other Intersting Pages
+Other Interesting Pages
 ----------------------
 
 * link:cpia.html[Contemporary People I Admire]
