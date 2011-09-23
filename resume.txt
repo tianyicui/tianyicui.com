@@ -13,10 +13,11 @@ Room 918, Dorm 30, Yuquan Campus +
 Zhejiang University, Hangzhou +
 China, 310027
 
-Objective
----------
+Objectives
+----------
 
-* Build tools that make programmers' life more fulfilling, including mine.
+* Overcome cognitive biases and practice the art of human rationality
+* Reach mastery in computer programming and build tools to make programmers' life more fulfilling.
 
 Skills
 ------
@@ -25,11 +26,12 @@ Skills
 
 * I am quite proficient in ACM/ICPC-level algorithmic problem-solving.
 * I am experienced with implementing algorithms based on textbooks and research papers.
+* I have practical experience in Natural Language Processing and Compiler Construction related algorithm design, analysis and implementation.
 
 .Programming skills
 
-* Writing clean code in `C++`, `C`, `C#`, `Python`, and `Ruby` with practical experiences.
-* Interested in functional programming language such as `Haskell`, `Scheme` and `F#`.
+* Writing clean code in `C`, `C++`, `C#`, `Python`, and `Ruby` with practical experiences.
+* Interested in functional programming language such as `Haskell`, `Scheme`, `Common Lisp`, `Clojure`, `Scala` and `F#`.
 * Web development with `Rails` and `Django`.
 * DSL (domain specific language) design and implementation in `Ruby`.
 * Software testing with `RSpec` and `NUnit`.
@@ -47,6 +49,7 @@ Skills
 
 * Excellent quick learning and problem-solving ability under time constraints.
 * Critical thinking and effective communication.
+* Efficient English technical writing skills.
 
 Academic Achievements
 ---------------------
@@ -66,12 +69,12 @@ Academic Achievements
 Commercial Project Experience
 -----------------------------
 
-* In February to March 2011, I participated in the development of the desktop client of _Bing Dictionary_ at the _Lingo_ group of _MSRA-IEG_. I designed and implemented some core algorithms being used in both client and server side.
-* In April to May 2011, I improved the demo program of _TransCut_ project by adding `Natural User Interface`. I designed and implemented the body gesture UI using `Kinect`.
+* In April to May 2011, I improved the demo program of _TransCut_ project by adding `Natural User Interface`, at _MSRA-IGG_, where I designed and implemented the body gesture UI using `Kinect`.
+* In February to March 2011, I participated in the development of the desktop client of _Bing Dictionary_ at the _Lingo_ group of _MSRA-IEG_. I designed and implemented some core algorithms being used in both client and server side, mainly in `Natural Language Processing` field.
 * In June 2010, I built a customized version of `WebKit` for _Hercules_ (part of _Guillemot Corporation_) with the main purpose of reducing memory footprint to be used in an embedded environment.
 * In August 2009, I ported the `Linux` kernel along with `uClibc` and `BusyBox` userland to a customized embedded board based on `AT91RM9200` chip for _Sinostride Technology_. I also wrote the essential device drivers as loadable kernel modules. The system is now widely deployed as the monitoring system in _China Unicom_'s 3G base stations.
 * In July 2009, I developed the prototype of a Facebook application using `Ruby on Rails` and `Apache Thrift` for _RomanLogic LLC_.
-* In June 2009, I developed a `.Net` RPC framework using `Protocol Buffer` and implemented the multi-threaded socket server in `C#`, for a client of _TopCoder, Inc._ codenamed _SP-14_.
+* In June 2009, I developed a `.Net` RPC framework using `Protocol Buffer` and implemented the multithreaded socket server in `C#`, for a client of _TopCoder, Inc._ codenamed _SP-14_.
 
 Open Source Experience
 ----------------------

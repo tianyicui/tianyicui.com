@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
-<meta name="generator" content="AsciiDoc 8.6.5" />
+<meta name="generator" content="AsciiDoc 8.6.6" />
 <title>Tianyi Cui (崔添翼)</title>
 <style type="text/css">
 /* Shared CSS for AsciiDoc xhtml11 and html5 backends */
@@ -179,7 +179,7 @@ div.quoteblock, div.verseblock {
   margin-left: 1.0em;
   margin-right: 10%;
   border-left: 5px solid #f0f0f0;
-  color: #777777;
+  color: #888;
 }
 
 div.quoteblock > div.attribution {
@@ -514,6 +514,29 @@ th.tableblock.valign-middle, td.tableblock.valign-middle {
 th.tableblock.valign-bottom, td.tableblock.valign-bottom {
   vertical-align: bottom;
 }
+
+
+/*
+ * manpage specific
+ *
+ * */
+
+body.manpage h1 {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border-top: 2px solid silver;
+  border-bottom: 2px solid silver;
+}
+body.manpage h2 {
+  border-style: none;
+}
+body.manpage div.sectionbody {
+  margin-left: 3em;
+}
+
+@media print {
+  body.manpage div#toc { display: none; }
+}
 </style>
 <script type="text/javascript">
 /*<![CDATA[*/
@@ -587,7 +610,7 @@ toc: function (toclevels) {
   var i;
   for (i = 0; i < toc.childNodes.length; i++) {
     var entry = toc.childNodes[i];
-    if (entry.nodeName == 'DIV'
+    if (entry.nodeName == 'div'
      && entry.getAttribute("class")
      && entry.getAttribute("class").match(/^toclevel/))
       tocEntriesToRemove.push(entry);
@@ -633,7 +656,7 @@ footnotes: function () {
   var entriesToRemove = [];
   for (i = 0; i < noteholder.childNodes.length; i++) {
     var entry = noteholder.childNodes[i];
-    if (entry.nodeName == 'DIV' && entry.getAttribute("class") == "footnote")
+    if (entry.nodeName == 'div' && entry.getAttribute("class") == "footnote")
       entriesToRemove.push(entry);
   }
   for (i = 0; i < entriesToRemove.length; i++) {
@@ -769,12 +792,17 @@ China, 310027
 </div>
 </div>
 <div class="sect1">
-<h2 id="_objective">Objective</h2>
+<h2 id="_objectives">Objectives</h2>
 <div class="sectionbody">
 <div class="ulist"><ul>
 <li>
 <p>
-Build tools that make programmers' life more fulfilling, including mine.
+Overcome cognitive biases and practice the art of human rationality
+</p>
+</li>
+<li>
+<p>
+Reach mastery in computer programming and build tools to make programmers' life more fulfilling.
 </p>
 </li>
 </ul></div>
@@ -794,16 +822,21 @@ I am quite proficient in ACM/ICPC-level algorithmic problem-solving.
 I am experienced with implementing algorithms based on textbooks and research papers.
 </p>
 </li>
+<li>
+<p>
+I have practical experience in Natural Language Processing and Compiler Construction related algorithm design, analysis and implementation.
+</p>
+</li>
 </ul></div>
 <div class="ulist"><div class="title">Programming skills</div><ul>
 <li>
 <p>
-Writing clean code in <tt>C++</tt>, <tt>C</tt>, <tt>C#</tt>, <tt>Python</tt>, and <tt>Ruby</tt> with practical experiences.
+Writing clean code in <tt>C</tt>, <tt>C++</tt>, <tt>C#</tt>, <tt>Python</tt>, and <tt>Ruby</tt> with practical experiences.
 </p>
 </li>
 <li>
 <p>
-Interested in functional programming language such as <tt>Haskell</tt>, <tt>Scheme</tt> and <tt>F#</tt>.
+Interested in functional programming language such as <tt>Haskell</tt>, <tt>Scheme</tt>, <tt>Common Lisp</tt>, <tt>Clojure</tt>, <tt>Scala</tt> and <tt>F#</tt>.
 </p>
 </li>
 <li>
@@ -865,6 +898,11 @@ Excellent quick learning and problem-solving ability under time constraints.
 Critical thinking and effective communication.
 </p>
 </li>
+<li>
+<p>
+Efficient English technical writing skills.
+</p>
+</li>
 </ul></div>
 </div>
 </div>
@@ -913,12 +951,12 @@ Wuhan Regional (team leader), Gold Medal, 2009
 <div class="ulist"><ul>
 <li>
 <p>
-In February to March 2011, I participated in the development of the desktop client of <em>Bing Dictionary</em> at the <em>Lingo</em> group of <em>MSRA-IEG</em>. I designed and implemented some core algorithms being used in both client and server side.
+In April to May 2011, I improved the demo program of <em>TransCut</em> project by adding <tt>Natural User Interface</tt>, at <em>MSRA-IGG</em>, where I designed and implemented the body gesture UI using <tt>Kinect</tt>.
 </p>
 </li>
 <li>
 <p>
-In April to May 2011, I improved the demo program of <em>TransCut</em> project by adding <tt>Natural User Interface</tt>. I designed and implemented the body gesture UI using <tt>Kinect</tt>.
+In February to March 2011, I participated in the development of the desktop client of <em>Bing Dictionary</em> at the <em>Lingo</em> group of <em>MSRA-IEG</em>. I designed and implemented some core algorithms being used in both client and server side, mainly in <tt>Natural Language Processing</tt> field.
 </p>
 </li>
 <li>
@@ -938,7 +976,7 @@ In July 2009, I developed the prototype of a Facebook application using <tt>Ruby
 </li>
 <li>
 <p>
-In June 2009, I developed a <tt>.Net</tt> RPC framework using <tt>Protocol Buffer</tt> and implemented the multi-threaded socket server in <tt>C#</tt>, for a client of <em>TopCoder, Inc.</em> codenamed <em>SP-14</em>.
+In June 2009, I developed a <tt>.Net</tt> RPC framework using <tt>Protocol Buffer</tt> and implemented the multithreaded socket server in <tt>C#</tt>, for a client of <em>TopCoder, Inc.</em> codenamed <em>SP-14</em>.
 </p>
 </li>
 </ul></div>
@@ -1016,7 +1054,7 @@ The latest version of my resume is always available online in <a href="http://ti
 <div id="footnotes"><hr /></div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2011-09-11 14:31:33 PHT
+Last updated 2011-09-23 12:48:57 PHT
 </div>
 </div>
 </body>
