@@ -25,15 +25,14 @@ Skills
 .Algorithm design, analysis and implementation
 
 * I am quite proficient in ACM/ICPC-level algorithmic problem-solving.
-* I am experienced with implementing algorithms based on textbooks and research papers.
-* I have practical experience in Natural Language Processing and Compiler Construction related algorithm design, analysis and implementation.
+* I am experienced with implementing algorithms based on textbooks and research papers, especially in Natual Language Processing and Compiler Construction fields.
 
 .Programming skills
 
 * Writing clean code in `C`, `C++`, `C#`, `Python`, and `Ruby` with practical experiences.
-* Interested in functional programming language such as `Haskell`, `Scheme`, `Common Lisp`, `Clojure`, `Scala` and `F#`.
+* Interested in functional programming languages such as `Haskell`, `Scheme`, `Common Lisp`, `Clojure`, `Scala` and `F#`.
 * Web development with `Rails` and `Django`.
-* DSL (domain specific language) design and implementation in `Ruby`.
+* Domain specific language design and implementation in `Ruby`.
 * Software testing with `RSpec` and `NUnit`.
 * Embedded `Linux` development in `C`, especially device driver implementation and system integration.
 * Lexical analysis and parsing with `flex`, `bison` and `treetop`.
