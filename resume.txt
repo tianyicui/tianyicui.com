@@ -25,7 +25,7 @@ Skills
 .Algorithm design, analysis and implementation
 
 * I am quite proficient in ACM/ICPC-level algorithmic problem-solving.
-* I am experienced with implementing algorithms based on textbooks and research papers, especially in Natual Language Processing and Compiler Construction fields.
+* I am experienced with implementing algorithms based on textbooks and research papers, especially in Natural Language Processing and Compiler Construction fields.
 
 .Programming skills
 
@@ -68,8 +68,8 @@ Academic Achievements
 Commercial Project Experience
 -----------------------------
 
-* In April to May 2011, I improved the demo program of _TransCut_ project by adding `Natural User Interface`, at _MSRA-IGG_, where I designed and implemented the body gesture UI using `Kinect`.
-* In February to March 2011, I participated in the development of the desktop client of _Bing Dictionary_ at the _Lingo_ group of _MSRA-IEG_. I designed and implemented some core algorithms being used in both client and server side, mainly in `Natural Language Processing` field.
+* In April to May 2011, I improved the demo program of _TransCut_ project by adding `Natural User Interface` at _Internet Graphics Group_ in _Microsoft Research Asia_, where I designed and implemented the body gesture UI using `Kinect`.
+* In February to March 2011, I participated in the development of the desktop client of _Bing Dictionary_ at the _Lingo_ group of _Innovation Engineering Center_ of _Microsoft Research Asia_. I designed and implemented some core algorithms being used in both client and server side, mainly in `Natural Language Processing` field.
 * In June 2010, I built a customized version of `WebKit` for _Hercules_ (part of _Guillemot Corporation_) with the main purpose of reducing memory footprint to be used in an embedded environment.
 * In August 2009, I ported the `Linux` kernel along with `uClibc` and `BusyBox` userland to a customized embedded board based on `AT91RM9200` chip for _Sinostride Technology_. I also wrote the essential device drivers as loadable kernel modules. The system is now widely deployed as the monitoring system in _China Unicom_'s 3G base stations.
 * In July 2009, I developed the prototype of a Facebook application using `Ruby on Rails` and `Apache Thrift` for _RomanLogic LLC_.
