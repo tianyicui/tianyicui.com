@@ -10,6 +10,7 @@ I am:
 I was:
 
 * a full-time intern at Microsoft Research Asia (first at Innovation Engineering Group and then Internet Graphics Group).
+* a four-time ACM/ICPC asia regional gold medal winner.
 
 My dreams:
 
@@ -53,6 +54,7 @@ Programming Related
 Discussion Areas
 ~~~~~~~~~~~~~~~~
 * Hacker News: http://news.ycombinator.com/user?id=tianyicui
+* LessWrong: http://lesswrong.com/user/tianyicui
 * Quora: https://www.quora.com/Tianyi-Cui
 * Reddit: http://www.reddit.com/user/tianyicui
 
