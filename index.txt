@@ -10,12 +10,12 @@ I am:
 I was:
 
 * a full-time intern at Microsoft Research Asia (first at Innovation Engineering Group and then Internet Graphics Group).
-* a four-time ACM/ICPC asia regional gold medal winner.
+* a four-time ACM/ICPC Asia regional gold medal winner.
 
 My dreams:
 
-* overcome cognitive biases and practice the art of human rationality.
-* reach mastery in computer programming and build tools to make programmers' life more fulfilling.
+* to overcome cognitive biases and practice the art of human rationality.
+* to reach mastery in computer programming and build tools to make programmers' life more fulfilling.
 
 My Résumé
 ---------
