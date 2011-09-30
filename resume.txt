@@ -81,7 +81,7 @@ Open Source Experience
 * In 2010, I made significant contribution to the `Homebrew` project, a package manager and porting system for `Mac OS X` entirely written in `Ruby`. More than a dozen software packages are ported to `Mac OS X` and carefully packaged by me.
 * I submitted patches to various open source projects; most of them got accepted. The notable projects are `RVM`, `RSpec`, `SimpleCov`, `highlighting-kate`, and `Redcar`. More details on https://github.com/tianyicui.
 
-Unpublished Papers
+UNpublished Papers
 ------------------
 
 * Love Oriented Programming http://love-oriented.com
@@ -94,9 +94,9 @@ Education
 Hobbies
 -------
 
-* Enjoying classical music.
-* Reading books on psychology and philosophy.
-* Watching Japanese animation.
+* Enjoying classical music, especially Bach.
+* Reading books on psychology and philosophy, especially cognitive science and pragmatism philosophy.
+* Watching Japanese animation, especailly with others.
 
 Notes
 -----
