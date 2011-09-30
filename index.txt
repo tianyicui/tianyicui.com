@@ -28,6 +28,7 @@ My dreams:
 
 * to overcome cognitive biases and practice the art of human rationality.
 * to reach mastery in computer programming and build tools to make programmers' life more fulfilling.
+* to write a book titled `Love Oriented Programming`.
 
 My Résumé
 ---------
