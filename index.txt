@@ -3,6 +3,14 @@ Tianyi Cui (崔添翼)
 
 image::tianyicui.jpg[My photo]
 
+My Maxim
+--------
+
+It's not what you underneath, It's what you do defines you.
+
+Self-introduction
+-----------------
+
 I am:
 
 * a 4th-year undergraduate in College of Computer Science and Technology at Zhejiang University.
@@ -11,6 +19,10 @@ I was:
 
 * a full-time intern at Microsoft Research Asia (first at Innovation Engineering Group and then Internet Graphics Group).
 * a four-time ACM/ICPC Asia regional gold medal winner.
+
+I am going to:
+
+* hulu.com intern-to-be.
 
 My dreams:
 
@@ -43,9 +55,9 @@ My Sharing Streams
 ~~~~~~~~~~~~~~~~~~
 * Slideshare: http://www.slideshare.net/tianyicui
 * Twitter: https://twitter.com/tianyi
-* Google Reader: https://www.google.com/reader/shared/tianyicui
 * Weibo: http://weibo.com/tianyicui
 * Fanfou: http://fanfou.com/dd_engi
+* Google Reader: https://www.google.com/reader/shared/tianyicui
 
 Programming Related
 ~~~~~~~~~~~~~~~~~~~
@@ -55,16 +67,16 @@ Programming Related
 
 Discussion Areas
 ~~~~~~~~~~~~~~~~
-* Hacker News: http://news.ycombinator.com/user?id=tianyicui
 * LessWrong: http://lesswrong.com/user/tianyicui
-* Quora: https://www.quora.com/Tianyi-Cui
+* Hacker News: http://news.ycombinator.com/user?id=tianyicui
 * Reddit: http://www.reddit.com/user/tianyicui
+* Quora: https://www.quora.com/Tianyi-Cui
 
 Other Places
 ~~~~~~~~~~~~
-* Pandora: http://www.pandora.com/people/cuity820
 * Goodreads: http://www.goodreads.com/review/list/3288851
 * MyAnimeList: http://tianyi.myanimelist.net
+* Pandora: http://www.pandora.com/people/cuity820
 * Bangumi: http://bangumi.tv/user/30341
 
 Other Interesting Pages
