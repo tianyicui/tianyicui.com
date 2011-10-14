@@ -39,13 +39,13 @@ This page tracks my book reading progress since 2011. Unless otherwise specified
 * Computer Organization and Design: The Hardware/Software Interface, ARM edition (_Apr 29_ - _May 11_)
 * The Bridges of Madison County [Chinese Version] (_May 4_)
 * Computer Networks (_May 10_ - _?_)
+* Computer Organization and Design: The Hardware/Software Interface
 
 == Next to Read
 
 Theses are books I hope I can start reading in three months.
 
 .Added on _Feb 24_:
-* Computer Organization and Design: The Hardware/Software Interface
 * Computer Architecture: A Quantitative Approach
 
 == In Near Future

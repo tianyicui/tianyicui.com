@@ -1,10 +1,7 @@
 Tianyi Cui (崔添翼)
 ================
 
-image::tianyicui.jpg[My photo]
-
-My Maxim
---------
+image::tianyicui.jpg[Tianyi Cui]
 
 It's not what you underneath, It's what you do defines you.
 
@@ -15,20 +12,20 @@ I am:
 
 * a 4th-year undergraduate in College of Computer Science and Technology at Zhejiang University.
 
+I am going to be:
+
+* a full-time hulu.com intern.
+
 I was:
 
 * a full-time intern at Microsoft Research Asia (first at Innovation Engineering Group and then Internet Graphics Group).
 * a four-time ACM/ICPC Asia regional gold medal winner.
 
-I am going to:
-
-* hulu.com intern-to-be.
-
 My dreams:
 
 * to overcome cognitive biases and practice the art of human rationality.
 * to reach mastery in computer programming and build tools to make programmers' life more fulfilling.
-* to write a book titled `Love Oriented Programming`.
+* to write a book titled `Love-Oriented Programming`.
 
 My Résumé
 ---------
@@ -36,12 +33,12 @@ My Résumé
 * Plain text: http://tianyicui.com/resume.txt
 * HTML: http://tianyicui.com/resume.html
 
-My Other Websites
------------------
+My Websites
+-----------
 
 * Blog (Chinese): http://cuitianyi.com
 * Blog (English): http://programmingbuddha.com
-* My side project: http://qiushihui.me (under construction)
+* My side projects: http://wiki.sh http://love-oriented.com
 
 Me At Other Places
 ------------------
@@ -79,9 +76,3 @@ Other Places
 * MyAnimeList: http://tianyi.myanimelist.net
 * Pandora: http://www.pandora.com/people/cuity820
 * Bangumi: http://bangumi.tv/user/30341
-
-Other Interesting Pages
-----------------------
-
-* link:cpia.html[Contemporary People I Admire]
-* link:reading.html[My Book Reading in 2011]
