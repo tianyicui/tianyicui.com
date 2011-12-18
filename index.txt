@@ -10,7 +10,7 @@ Self-introduction
 
 I am:
 
-* a 4th-year undergraduate in College of Computer Science and Technology at Zhejiang University.
+* a undergraduate in College of Computer Science and Technology at Zhejiang University.
 
 * a full-time hulu.com intern.
 
@@ -23,7 +23,6 @@ My dreams:
 
 * to overcome cognitive biases and practice the art of human rationality.
 * to reach mastery in computer programming and build tools to make programmers' life more fulfilling.
-* to write a book titled `Love-Oriented Programming`.
 
 My Résumé
 ---------
@@ -34,9 +33,8 @@ My Résumé
 My Websites
 -----------
 
-* Blog (Chinese): http://cuitianyi.com
 * Blog (English): http://programmingbuddha.com
-* My side projects: http://wiki.sh http://love-oriented.com
+* Blog (Chinese): http://cuitianyi.com
 
 Me At Other Places
 ------------------
