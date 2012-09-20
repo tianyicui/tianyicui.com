@@ -3,7 +3,7 @@ Tianyi Cui (崔添翼)
 
 image::tianyicui.jpg[Tianyi Cui]
 
-It's not what you underneath, it's what you do defines you.
+It's not who you are underneath, it's what you do defines you.
 
 Self-introduction
 -----------------
@@ -32,7 +32,6 @@ My Résumé
 My Websites
 -----------
 
-* Blog (English): http://programmingbuddha.com
 * Blog (Chinese): http://cuitianyi.com
 
 Me At Other Places
