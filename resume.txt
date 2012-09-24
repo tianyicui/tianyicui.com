@@ -7,17 +7,11 @@ Email:: me@cuitianyi.com
 
 Phone:: +8613958103659 (It's a prime number!)
 
-Address::
-
-Room 918, Dorm 30, Yuquan Campus +
-Zhejiang University, Hangzhou +
-China, 310027
-
 Objectives
 ----------
 
 * Overcome cognitive biases and practice the art of human rationality
-* Reach mastery in computer programming and build tools to make programmers' life more fulfilling.
+* Reach mastery in computer programming and build mechanisms to make programmers' life more fulfilling.
 
 Skills
 ------
@@ -25,12 +19,12 @@ Skills
 .Algorithm design, analysis and implementation
 
 * I am quite proficient in ACM/ICPC-level algorithmic problem-solving.
-* I am experienced with implementing algorithms based on textbooks and research papers, especially in Natural Language Processing and Compiler Construction fields.
+* I am experienced with implementing algorithms based on textbooks and research papers.
 
 .Programming skills
 
-* Writing clean code in `C`, `C++`, `C#`, `Python`, and `Ruby` with practical experiences.
-* Interested in functional programming languages such as `Haskell`, `Scheme`, `Common Lisp`, `Clojure`, `Scala` and `F#`.
+* Writing clean code in `C`, `C#`, `Python`, `Ruby` and `OCaml` with practical experiences.
+* Interested in functional programming languages such as `Haskell`, `Erlang`, `F#`, `Scala`, `Clojure`, `Scheme`, `Common Lisp`.
 * Web development with `Rails` and `Django`.
 * Domain specific language design and implementation in `Ruby`.
 * Software testing with `RSpec` and `NUnit`.
@@ -39,7 +33,7 @@ Skills
 
 .Programming tools
 
-* Source code management: `Git`, `Mercurial`, `Subversion`, `Visual SourceSafe`.
+* Source code management: `Git`, `Mercurial`, `Subversion`.
 * Editor/IDE: `Vim`, `Visual Studio`.
 * Operating systems: `Mac OS X`, `Windows`, and `Linux` (especially `Debian`, `Ubuntu` and `ArchLinux`).
 * I also have rich experience with common `Unix` command line utilities.
@@ -80,6 +74,7 @@ Commercial Project Experience
 Open Source Experience
 ----------------------
 
+* In September 2012, I created `GoLio` (https://github.com/tianyicui/golio), which is a `Lisp` dialect implemented in `OCaml` with a `Go`-like concurrency model (i.e, goroutines and channels).
 * In 2010, I made significant contribution to the `Homebrew` project, a package manager and porting system for `Mac OS X` entirely written in `Ruby`. More than a dozen software packages are ported to `Mac OS X` and carefully packaged by me.
 * I submitted patches to various open source projects; most of them got accepted. The notable projects are `RVM`, `RSpec`, `SimpleCov`, `highlighting-kate`, and `Redcar`. More details on https://github.com/tianyicui.
 
@@ -92,8 +87,8 @@ Hobbies
 -------
 
 * Enjoying classical music, especially Bach.
-* Reading books on psychology and philosophy, especially cognitive science and pragmatism philosophy.
-* Watching Japanese animation, especially with others.
+* Reading books on psychology and philosophy.
+* Watching Japanese animation.
 
 Notes
 -----

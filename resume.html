@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 <head>
 <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
-<meta name="generator" content="AsciiDoc 8.6.6" />
+<meta name="generator" content="AsciiDoc 8.6.7" />
 <title>Tianyi Cui (崔添翼)</title>
 <style type="text/css">
 /* Shared CSS for AsciiDoc xhtml11 and html5 backends */
@@ -349,7 +349,7 @@ div.colist td img {
   margin-bottom: 0.1em;
 }
 
-div.toclevel1, div.toclevel2, div.toclevel3, div.toclevel4 {
+div.toclevel0, div.toclevel1, div.toclevel2, div.toclevel3, div.toclevel4 {
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -407,6 +407,8 @@ span.underline { text-decoration: underline; }
 span.overline { text-decoration: overline; }
 span.line-through { text-decoration: line-through; }
 
+div.unbreakable { page-break-inside: avoid; }
+
 
 /*
  * xhtml11 specific
@@ -414,7 +416,7 @@ span.line-through { text-decoration: line-through; }
  * */
 
 tt {
-  font-family: monospace;
+  font-family: "Courier New", Courier, monospace;
   font-size: inherit;
   color: navy;
 }
@@ -453,7 +455,7 @@ div.tableblock > table[frame="vsides"] {
  * */
 
 .monospaced {
-  font-family: monospace;
+  font-family: "Courier New", Courier, monospace;
   font-size: inherit;
   color: navy;
 }
@@ -581,7 +583,7 @@ toc: function (toclevels) {
 
   function tocEntries(el, toclevels) {
     var result = new Array;
-    var re = new RegExp('[hH]([2-'+(toclevels+1)+'])');
+    var re = new RegExp('[hH]([1-'+(toclevels+1)+'])');
     // Function that scans the DOM tree for header elements (the DOM2
     // nodeIterator API would be a better technique but not supported by all
     // browsers).
@@ -610,7 +612,7 @@ toc: function (toclevels) {
   var i;
   for (i = 0; i < toc.childNodes.length; i++) {
     var entry = toc.childNodes[i];
-    if (entry.nodeName == 'div'
+    if (entry.nodeName.toLowerCase() == 'div'
      && entry.getAttribute("class")
      && entry.getAttribute("class").match(/^toclevel/))
       tocEntriesToRemove.push(entry);
@@ -656,7 +658,7 @@ footnotes: function () {
   var entriesToRemove = [];
   for (i = 0; i < noteholder.childNodes.length; i++) {
     var entry = noteholder.childNodes[i];
-    if (entry.nodeName == 'div' && entry.getAttribute("class") == "footnote")
+    if (entry.nodeName.toLowerCase() == 'div' && entry.getAttribute("class") == "footnote")
       entriesToRemove.push(entry);
   }
   for (i = 0; i < entriesToRemove.length; i++) {
@@ -778,16 +780,6 @@ Phone
 +8613958103659 (It&#8217;s a prime number!)
 </p>
 </dd>
-<dt class="hdlist1">
-Address
-</dt>
-<dd>
-<p>
-Room 918, Dorm 30, Yuquan Campus<br />
-Zhejiang University, Hangzhou<br />
-China, 310027
-</p>
-</dd>
 </dl></div>
 </div>
 </div>
@@ -802,7 +794,7 @@ Overcome cognitive biases and practice the art of human rationality
 </li>
 <li>
 <p>
-Reach mastery in computer programming and build tools to make programmers' life more fulfilling.
+Reach mastery in computer programming and build mechanisms to make programmers' life more fulfilling.
 </p>
 </li>
 </ul></div>
@@ -819,19 +811,19 @@ I am quite proficient in ACM/ICPC-level algorithmic problem-solving.
 </li>
 <li>
 <p>
-I am experienced with implementing algorithms based on textbooks and research papers, especially in Natural Language Processing and Compiler Construction fields.
+I am experienced with implementing algorithms based on textbooks and research papers.
 </p>
 </li>
 </ul></div>
 <div class="ulist"><div class="title">Programming skills</div><ul>
 <li>
 <p>
-Writing clean code in <tt>C</tt>, <tt>C++</tt>, <tt>C#</tt>, <tt>Python</tt>, and <tt>Ruby</tt> with practical experiences.
+Writing clean code in <tt>C</tt>, <tt>C#</tt>, <tt>Python</tt>, <tt>Ruby</tt> and <tt>OCaml</tt> with practical experiences.
 </p>
 </li>
 <li>
 <p>
-Interested in functional programming languages such as <tt>Haskell</tt>, <tt>Scheme</tt>, <tt>Common Lisp</tt>, <tt>Clojure</tt>, <tt>Scala</tt> and <tt>F#</tt>.
+Interested in functional programming languages such as <tt>Haskell</tt>, <tt>Erlang</tt>, <tt>F#</tt>, <tt>Scala</tt>, <tt>Clojure</tt>, <tt>Scheme</tt>, <tt>Common Lisp</tt>.
 </p>
 </li>
 <li>
@@ -863,7 +855,7 @@ Lexical analysis and parsing with <tt>flex</tt>, <tt>bison</tt> and <tt>treetop<
 <div class="ulist"><div class="title">Programming tools</div><ul>
 <li>
 <p>
-Source code management: <tt>Git</tt>, <tt>Mercurial</tt>, <tt>Subversion</tt>, <tt>Visual SourceSafe</tt>.
+Source code management: <tt>Git</tt>, <tt>Mercurial</tt>, <tt>Subversion</tt>.
 </p>
 </li>
 <li>
@@ -993,6 +985,11 @@ In June 2009, I developed a <tt>.Net</tt> RPC framework using <tt>Protocol Buffe
 <div class="ulist"><ul>
 <li>
 <p>
+In September 2012, I created <tt>GoLio</tt> (<a href="https://github.com/tianyicui/golio">https://github.com/tianyicui/golio</a>), which is a <tt>Lisp</tt> dialect implemented in <tt>OCaml</tt> with a <tt>Go</tt>-like concurrency model (i.e, goroutines and channels).
+</p>
+</li>
+<li>
+<p>
 In 2010, I made significant contribution to the <tt>Homebrew</tt> project, a package manager and porting system for <tt>Mac OS X</tt> entirely written in <tt>Ruby</tt>. More than a dozen software packages are ported to <tt>Mac OS X</tt> and carefully packaged by me.
 </p>
 </li>
@@ -1027,12 +1024,12 @@ Enjoying classical music, especially Bach.
 </li>
 <li>
 <p>
-Reading books on psychology and philosophy, especially cognitive science and pragmatism philosophy.
+Reading books on psychology and philosophy.
 </p>
 </li>
 <li>
 <p>
-Watching Japanese animation, especially with others.
+Watching Japanese animation.
 </p>
 </li>
 </ul></div>
@@ -1059,7 +1056,7 @@ The latest version of my resume is always available online in <a href="http://ti
 <div id="footnotes"><hr /></div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2012-05-08 21:09:48 PHT
+Last updated 2012-09-24 14:05:40 PHT
 </div>
 </div>
 </body>
