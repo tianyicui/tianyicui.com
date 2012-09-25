@@ -10,7 +10,7 @@ Phone:: +8613958103659 (It's a prime number!)
 Objectives
 ----------
 
-* Overcome cognitive biases and practice the art of human rationality
+* Overcome cognitive biases and practice the art of human rationality.
 * Reach mastery in computer programming and build mechanisms to make programmers' life more fulfilling.
 
 Skills
