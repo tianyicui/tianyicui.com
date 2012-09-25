@@ -66,10 +66,6 @@ Commercial Project Experience
 * In December 2011, I helped to build a automatic testing framework for `Flash` applications in `C#` using `WebDriver` at _Engineering Excellence Group_ of _Hulu_.
 * In April to May 2011, I improved the demo program of _TransCut_ project by adding `Natural User Interface` at _Internet Graphics Group_ of _Microsoft Research Asia_, where I designed and implemented the body gesture UI using `Kinect`.
 * In February to March 2011, I participated in the development of the desktop client of _Bing Dictionary_ at the _Lingo_ group of _Innovation Engineering Center_ of _Microsoft Research Asia_. I designed and implemented some core algorithms being used in both client and server side, mainly in `Natural Language Processing` field.
-* In June 2010, I built a customized version of `WebKit` for _Hercules_ (part of _Guillemot Corporation_) with the main purpose of reducing memory footprint to be used in an embedded environment.
-* In August 2009, I ported the `Linux` kernel along with `uClibc` and `BusyBox` userland to a customized embedded board based on `AT91RM9200` chip for _Sinostride Technology_. I also wrote the essential device drivers as loadable kernel modules. The system is now widely deployed as the monitoring system in _China Unicom_'s 3G base stations.
-* In July 2009, I developed the prototype of a Facebook application using `Ruby on Rails` and `Apache Thrift` for _RomanLogic LLC_.
-* In June 2009, I developed a `.Net` RPC framework using `Protocol Buffer` and implemented the multithreaded socket server in `C#`, for a client of _TopCoder, Inc._ codenamed _SP-14_.
 
 Open Source Experience
 ----------------------
