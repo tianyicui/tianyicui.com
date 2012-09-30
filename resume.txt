@@ -3,7 +3,7 @@ Tianyi Cui (崔添翼)
 
 Web:: http://tianyicui.com
 
-Email:: me@cuitianyi.com
+Email:: tianyicui@gmail.com
 
 Phone:: +8613958103659 (It's a prime number!)
 
@@ -23,26 +23,21 @@ Skills
 
 .Programming skills
 
-* Writing clean code in `C`, `C#`, `Python`, `Ruby` and `OCaml` with practical experiences.
-* Interested in functional programming languages such as `Haskell`, `Erlang`, `F#`, `Scala`, `Clojure`, `Scheme`, `Common Lisp`.
-* Web development with `Rails` and `Django`.
-* Domain specific language design and implementation in `Ruby`.
-* Software testing with `RSpec` and `NUnit`.
-* Embedded `Linux` development in `C`, especially device driver implementation and system integration.
-* Lexical analysis and parsing with `flex`, `bison` and `treetop`.
+* Writing clean code in `C`, `Python`, `Ruby`, `C#` and `OCaml` with practical experiences.
+* Highly interested in functional programming languages such as `Haskell`, `Erlang`, `F#`, `Scala`, `Clojure`, `Lisp`.
+* Test-driven development with `RSpec`, `NUnit` and similar tools.
+* Lexical analysis and parsing with `flex`, `bison`, `parsec`, `treetop` and similar tools.
 
 .Programming tools
 
 * Source code management: `Git`, `Mercurial`, `Subversion`.
 * Editor/IDE: `Vim`, `Visual Studio`.
-* Operating systems: `Mac OS X`, `Windows`, and `Linux` (especially `Debian`, `Ubuntu` and `ArchLinux`).
 * I also have rich experience with common `Unix` command line utilities.
 
 .General skills
 
 * Excellent quick learning and problem-solving ability under time constraints.
 * Critical thinking and effective communication.
-* Pragmatic English technical writing skills.
 
 Academic Achievements
 ---------------------
@@ -59,32 +54,24 @@ Academic Achievements
 * 1st place, 2009
 * 1st place, 2010
 
-Commercial Project Experience
------------------------------
+Intern Experience
+-----------------
 
-* In January to February 2012, I helped to build a prototype of P2P video-on-demand `Flash` client in `ActionScript` at _Research Group_ of _Hulu_.
-* In December 2011, I helped to build a automatic testing framework for `Flash` applications in `C#` using `WebDriver` at _Engineering Excellence Group_ of _Hulu_.
-* In April to May 2011, I improved the demo program of _TransCut_ project by adding `Natural User Interface` at _Internet Graphics Group_ of _Microsoft Research Asia_, where I designed and implemented the body gesture UI using `Kinect`.
-* In February to March 2011, I participated in the development of the desktop client of _Bing Dictionary_ at the _Lingo_ group of _Innovation Engineering Center_ of _Microsoft Research Asia_. I designed and implemented some core algorithms being used in both client and server side, mainly in `Natural Language Processing` field.
+* In January to February 2012, at _Hulu_'s Research team, I helped to build a prototype of P2P video-on-demand `Flash` client in `ActionScript`.
+* In December 2011, at _Hulu_'s Engineering Excellence team, I helped to build a automatic testing framework for `Flash` applications in `C#` using `WebDriver`.
+* In April to May 2011, at _Internet Graphics Group_ of _Microsoft Research Asia_, I improved the demo program of _TransCut_ project by adding `Natural User Interface`, where I designed and implemented the body gesture UI using `Kinect`.
+* In February to March 2011, at _Innovation Engineering Center_ of _Microsoft Research Asia_, I participated in the development of _Bing Dictionary_'s desktop client. I designed and implemented some core algorithms being used in both client and server side, mainly in `Natural Language Processing` field.
 
 Open Source Experience
 ----------------------
 
 * In September 2012, I created `GoLio` (https://github.com/tianyicui/golio), which is a `Lisp` dialect implemented in `OCaml` with a `Go`-like concurrency model (i.e, goroutines and channels).
-* In 2010, I made significant contribution to the `Homebrew` project, a package manager and porting system for `Mac OS X` entirely written in `Ruby`. More than a dozen software packages are ported to `Mac OS X` and carefully packaged by me.
-* I submitted patches to various open source projects; most of them got accepted. The notable projects are `RVM`, `RSpec`, `SimpleCov`, `highlighting-kate`, and `Redcar`. More details on https://github.com/tianyicui.
+* I submitted patches to various open source projects; most of them got accepted. The notable projects are `Homebrew`, `RVM`, `RSpec`, `SimpleCov`, `highlighting-kate`, and `Redcar`. More details on https://github.com/tianyicui.
 
 Education
 ---------
 
 * I am an undergraduate in College of Computer Science and Technology at Zhejiang University, and expected to graduated in June 2013.
-
-Hobbies
--------
-
-* Enjoying classical music, especially Bach.
-* Reading books on psychology and philosophy.
-* Watching Japanese animation.
 
 Notes
 -----
